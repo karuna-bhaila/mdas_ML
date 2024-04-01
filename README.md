@@ -11,7 +11,9 @@ The following models will be discussed during the sessions:
 - Naive Bayes
 - Logistic Regression
 - Support Vector Machine
-- Perceptron
+- Neural networks
+
+The goal is to build these models in Python and report prediction statistics on the test data. Task 1 includes DTs and NB and Task 2 includes the rest of the models.
 
 ## Installation 
 Please refer to the [Fall boot camp](https://github.com/karuna-bhaila/mdas_python) for a brief introduction to Python programming (numpy, pandas, matplotlib) and instructions for installation. The code is provided in Python notebook format and can be run via [Jupyter Notebook](https://jupyter.org/) or [Google colab](https://colab.google/)
